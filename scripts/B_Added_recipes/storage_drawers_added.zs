@@ -1,0 +1,1 @@
+recipes.addShaped(<storagedrawers:compdrawers>, [[<industrialforegoing:pink_slime>, <actuallyadditions:block_crystal:5>, <industrialforegoing:pink_slime>],[<minecraft:sticky_piston>, <teslacorelib:machine_case>, <minecraft:sticky_piston>], [<industrialforegoing:pink_slime>, <actuallyadditions:block_crystal:5>, <industrialforegoing:pink_slime>]]);

@@ -1,0 +1,342 @@
+[PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Robijnvogel
+BigAl607
+Otakup0pe
+AdaraChristine
+BrÃ¸nsted
+KyoSohma
+NickT
+Jams
+Shotguun29
+Jonathan McManus
+Barrier
+Pongo Sapiens
+Belathus
+Ivy_
+Peregrinus11
+DreamThorn
+Ncc1702
+Quaternary
+IDroid
+Gildrag 09
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\actually_additions_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\ex_compressum.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\ex_nihilo_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\extra_utilities.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\furnace_overhaul.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\immersive_engineering_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\industrial_foregoing_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\minecraft_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\quark_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\removed_and_hidden.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\snad_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\storage_drawers_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\teslacorelib_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\thermal_foundation_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\tinkers_construct_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\tiny_progressions_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\uppers_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\actually_additions_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\ceramice_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\ex_compressum_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\ex_nihilo_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\exnihilo_hammer_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\exnihilo_head_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\exnihilo_sieve_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\extra_utilities_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\furnace_overhaul_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\immersive_engineering_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\industrial_foregoing_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\minecraft_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\quark_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\snad_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\storage_drawers_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\teslacorelib_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\thermal_foundation_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\tinkers_construct_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\tiny_progressions_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\uppers_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 10ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\actually_additions_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\ex_compressum.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\ex_nihilo_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\extra_utilities.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\furnace_overhaul.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\immersive_engineering_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\industrial_foregoing_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\minecraft_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\quark_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\removed_and_hidden.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\snad_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\storage_drawers_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\teslacorelib_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\thermal_foundation_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\tinkers_construct_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\tiny_progressions_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: A_removed_recipes\uppers_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\actually_additions_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\ceramice_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\ex_compressum_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\ex_nihilo_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\exnihilo_hammer_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\exnihilo_head_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\exnihilo_sieve_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\extra_utilities_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\furnace_overhaul_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\immersive_engineering_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\industrial_foregoing_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\minecraft_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\quark_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\snad_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\storage_drawers_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\teslacorelib_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\thermal_foundation_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\tinkers_construct_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\tiny_progressions_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: B_Added_recipes\uppers_added.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 1ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\actually_additions_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\ex_compressum.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\ex_nihilo_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\extra_utilities.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\furnace_overhaul.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\immersive_engineering_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\industrial_foregoing_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\minecraft_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\quark_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\removed_and_hidden.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\snad_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\storage_drawers_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\teslacorelib_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\thermal_foundation_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\tinkers_construct_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\tiny_progressions_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: A_removed_recipes\uppers_removed.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\actually_additions_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\ceramice_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\ex_compressum_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\ex_nihilo_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\exnihilo_hammer_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\exnihilo_head_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\exnihilo_sieve_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\extra_utilities_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\furnace_overhaul_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\immersive_engineering_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\industrial_foregoing_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\minecraft_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\quark_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\snad_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\storage_drawers_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\teslacorelib_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\thermal_foundation_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\tinkers_construct_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\tiny_progressions_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: B_Added_recipes\uppers_added.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 989ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <excompressum:compressed_block:1>
+[POSTINITIALIZATION][CLIENT][INFO] 1 removed
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Generator with name ct_shaped-820705752
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crystallized Canola Seed with name ct_shaped2012133286
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enori Crystal with name ct_shaped-1777416151
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Atomic Reconstructor with name ct_shaped1738100595
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name ct_shaped836805996
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Coil with name ct_shaped-476976174
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Coil with name ct_shaped557651804
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Display Stand with name ct_shaped1001340609
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clay Bucket with name ct_shaped-14719577
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Heavy Sieve with name ct_shaped486902813
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Sieve with name ct_shaped-875612533
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for tile.excompressum:heavy_sieve_32767.name with name ct_shaped-824048830
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Compressed Hammer with name ct_shaped-888250291
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Hammer with name ct_shaped1974095424
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Crucible with name ct_shaped-1495054771
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sieve with name ct_shaped463845751
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Porcelain Clay with name ct_shapeless-703190559
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Stiffened Mesh with name ct_shaped983674774
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Stiffened Mesh with name ct_shaped1100481398
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint Stiffened Mesh with name ct_shaped1994511702
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Crook with name ct_shaped-1784701365
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Barrel with name ct_shaped1878286195
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Hammer with name ct_shaped1144375095
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Hammer with name ct_shaped-425292157
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compressed Dirt with name ct_shaped-487182096
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blank Upgrade with name ct_shaped1894273098
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ore Processing Upgrade with name ct_shaped-788994972
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Speed Upgrade with name ct_shaped-508258635
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Efficiency Upgrade with name ct_shaped-1745854576
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Endest Kit with name ct_shaped1110261772
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Emerald Kit with name ct_shaped-702381659
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Kit with name ct_shaped1383127165
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Kit with name ct_shaped1374783827
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Kit with name ct_shaped-1321416465
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Endest Furnace with name ct_shaped-1088441539
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Endest Furnace with name ct_shaped1537042764
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Emerald Furnace with name ct_shaped369359205
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Emerald Furnace with name ct_shaped-1604961875
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Furnace with name ct_shaped-179567087
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Furnace with name ct_shaped637315961
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Furnace with name ct_shaped-1331592459
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Furnace with name ct_shaped1382641487
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Furnace with name ct_shaped-722815851
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Furnace with name ct_shaped997748243
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Sheetmetal with name ct_shaped-940396917
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Sheetmetal with name ct_shaped-974383493
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Latex Processing Unit with name ct_shaped1902252354
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tree Fluid Extractor with name ct_shaped-175484371
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tiny Dry Rubber with name ct_shapeless-1374099701
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mob Duplicator with name ct_shaped126391317
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Laser Drill with name ct_shaped-76183570
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Laser Base with name ct_shaped-1986554400
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stick with name ct_shaped1874146529
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stick with name ct_shaped987154215
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bucket with name ct_shaped-1636971470
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Chest with name ct_shaped-595565944
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace with name ct_shaped2077718361
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Quartz with name ct_shaped-1862728652
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hopper with name ct_shapeless426008158
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hopper with name ct_shaped-1929335572
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Chest with name ct_shaped-957823988
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint with name ct_shaped1004539170
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobblestone with name ct_shaped79649321
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dark Oak Wood Planks with name ct_shapeless-657157409
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Acacia Wood Planks with name ct_shapeless-2042775488
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Jungle Wood Planks with name ct_shapeless-91206943
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dark Oak Wood Planks with name ct_shapeless-155638753
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Acacia Wood Planks with name ct_shapeless1786738661
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Jungle Wood Planks with name ct_shapeless-920777625
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Birch Wood Planks with name ct_shapeless-1672509502
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Spruce Wood Planks with name ct_shapeless1201538019
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Wood Planks with name ct_shapeless-2057796650
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Birch Wood Planks with name ct_shapeless-1614802843
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Spruce Wood Planks with name ct_shapeless1986139235
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Wood Planks with name ct_shapeless-591347211
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sugar Cane Block with name ct_shaped-1695103089
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Snad with name ct_shaped1654455771
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compacting Drawer with name ct_shaped-2002721458
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Case with name ct_shaped246584145
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nickel Plate with name ct_shaped2021351262
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminum Plate with name ct_shaped-1058376926
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lead Plate with name ct_shaped156862182
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Plate with name ct_shaped1372101290
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tin Plate with name ct_shaped-913249139
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Plate with name ct_shaped301989969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Plate with name ct_shaped-411787165
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Plate with name ct_shaped-1403538100
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Grout with name ct_shaped1452576469
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Hopper with name ct_shaped1591084861
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobblestone Generator Tier 2 with name ct_shaped39174708
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobblestone Generator with name ct_shaped452463066
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Upper with name ct_shaped-309018236
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Upper with name ct_shapeless-632493650
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infusion Crystal with name ct_shaped1588837777
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Casing with name ct_shaped709565542
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Controller with name ct_shaped624280591
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Petrified Fuel Generator with name ct_shaped-275849726
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for the Ex Nihilo Sieve
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for the Ex Nihilo Crook
+[POSTINITIALIZATION][CLIENT][INFO] Adding Hammer recipe for [1xtile.excompressum:compressed_block@0] with drop <exnihilocreatio:item_material:2> at a chance of 0.5 with mining level 0
+[POSTINITIALIZATION][CLIENT][INFO] Adding Heat recipe for <mekanism:basicblock2:5> with value 30
+[POSTINITIALIZATION][CLIENT][INFO] Adding Heat recipe for <immersiveengineering:metal_device1:1> with value 35
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.extrautils2:compresseddirt@0] for Mesh string
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh flint
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.reed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@0] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@8] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@8] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@8] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@8] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@6] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@6] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@6] for Mesh iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@6] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@6] for Mesh diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding Sieve recipe for [1xtile.excompressum:compressed_block@6] for Mesh diamond
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:empoweredoil> * 144
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <actuallyadditions:item_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:40>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:39>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:38>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:37>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:36>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:35>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:34>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:33>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:32>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:31>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:30>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:wateringcan>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:wateringcan:1000>

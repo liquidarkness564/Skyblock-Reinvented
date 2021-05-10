@@ -1,0 +1,1 @@
+recipes.addShaped(<quark:reed_block>, [[<minecraft:reeds>, <excompressum:compressed_block>, <minecraft:reeds>],[<excompressum:compressed_block>, <minecraft:reeds>, <excompressum:compressed_block>], [<minecraft:reeds>, <excompressum:compressed_block>, <minecraft:reeds>]]);
