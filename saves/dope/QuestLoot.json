@@ -1,0 +1,77 @@
+{
+  "groups:9": {
+    "0:10": {
+      "name:8": "Common",
+      "weight:3": 20,
+      "ID:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "weight:3": 5,
+          "ID:3": 0,
+          "items:9": {
+            "0:10": {
+              "id:8": "minecraft:dirt",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        },
+        "1:10": {
+          "weight:3": 20,
+          "ID:3": 1,
+          "items:9": {
+            "0:10": {
+              "id:8": "minecraft:stone",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        },
+        "2:10": {
+          "weight:3": 1,
+          "ID:3": 2,
+          "items:9": {
+            "0:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        },
+        "3:10": {
+          "weight:3": 1,
+          "ID:3": 3,
+          "items:9": {
+            "0:10": {
+              "id:8": "minecraft:log",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        },
+        "4:10": {
+          "weight:3": 1,
+          "ID:3": 4,
+          "items:9": {
+            "0:10": {
+              "id:8": "minecraft:cobblestone",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1:10": {
+      "name:8": "Uncommon",
+      "weight:3": 10,
+      "ID:3": 1,
+      "rewards:9": {}
+    }
+  }
+}
